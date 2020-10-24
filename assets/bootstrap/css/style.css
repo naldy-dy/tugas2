@@ -1,0 +1,378 @@
+body{
+	background: #eee;
+}
+a{
+	color: #000;
+}
+a:hover{
+	color: #000;
+}
+/*koleksi*/
+.bg-saya{
+	background-color: #c70039;
+	color: #fff;
+}
+.bg-1{
+	background:linear-gradient(45deg, #05abe0 0%, #8200fa 100%);
+	color: #fff;
+}
+.bg-2{
+	background:-webkit-linear-gradient(left, #a445b2, #fa4299);
+}
+
+
+/*header*/
+.kepala{
+	height: auto;
+	padding-bottom: 30px;
+	background: #c70039;
+	color: #fff;
+	border-radius: 0 0 70px 70px;
+}
+
+.kepala table{
+	padding-bottom: 3px;
+}
+.kepala table td{
+	width: 50px;
+	text-align: center;
+}
+.kepala img{
+	width: 17px;
+}
+.menu-bar-1{
+	float: left;
+	width: 25%;
+	color: #fff;
+}
+.menu-bar-1 li{
+	float: left;
+	margin: 15px;
+	list-style-type: none;
+}
+.menu-bar-2{
+	width: 45%;
+}
+.menu-bar-3{
+	width: 25%;
+	color: #fff;
+	float: right;
+}
+.menu-bar-3 li{
+	margin: 15px;
+	float: right;
+	list-style-type: none;
+}
+
+/*banner*/
+.banner{
+	width: 100%;
+}
+.banner-1{
+	width: 68%;
+}
+.banner-1 img{
+	width: 70%;
+	float: left;
+	height: 300px;	
+	border: 3px solid #fff;
+	border-radius: 10px;
+}
+.banner-2{
+	width: 30%;
+}
+.banner-2 img{
+	width: 30%;
+	height: 300px;
+	border-radius: 10px;
+	border: 3px solid #fff;
+}
+
+/*Pilihan box*/
+.pilihan{
+	width: 100%;
+	background-color: #eee;
+	padding-bottom: 2px;
+	padding-top: 2px;
+}
+.pilihan .aktif{
+	border: 3px solid #c70039;
+}
+.pilihan-box{
+	width: 100%;
+	background-color: #fff9
+	color: #c70039;
+	height: 10vh;
+	border:3px solid #eee;
+	border-radius: 10px;
+	margin: auto;
+}
+.pilihan-box:hover{
+	border: 3px solid #c70039;
+	animation-delay: 2s;
+}
+.pilihan-box h4{
+	margin: auto;
+	padding-top: 17px;
+	font-weight: bold;
+}
+/*kategori*/
+.kategori{
+	width: 100%;
+}
+.head-line{
+	background-color: #c70039;
+	color:#fff;
+	border-radius: 5px;
+	padding: 2px 0 0 1px;
+}
+.kategori{
+	width: 100%;
+	margin: auto;
+	background-color: #fff;
+}
+.kategori-box{
+	width: 9.8%;
+	height: 130px;
+	box-sizing: border-box;
+	text-align: center;
+	float: left;
+	border-radius: 10px;
+	margin-left: 1px;
+	margin-right: 1px;
+	border:2px solid #ddd;
+}
+.kategori-box:hover{
+	box-shadow: 0 0 3px red;
+	transform: scale(1.02);
+	transition: 0.5s;
+	text-decoration: none;
+}
+.kategori-box img{
+	width: 100%;
+	height: 100px;
+	border-radius: 10px 10px 0 0;
+}
+.kategori-box p{
+	color: #000;
+	font-size: 11px;
+}
+
+/*produk*/
+.produk-box{
+	width: 16%;
+	height: 350px;
+	background-color: #fff;
+	box-sizing: border-box;
+	float: left;
+	padding-bottom: 30px;
+}
+.produk-box img{
+	width: 100%;
+	height: 200px;
+}
+.produk-box h4{
+	color: #000;
+	font-weight: bold;
+	font-size: 15px;
+}
+.produk-box h5{
+	color: #000;
+	font-size: 13px;
+}
+.produk-box h6{
+	color:red;
+	font-size: 14px;
+	font-weight: bold;
+	float: right;
+}
+.produk-box:hover{
+	box-shadow: 0 0 3px red;
+	transform: scale(1.02);
+	transition: 0.5s;
+	text-decoration: none;
+}
+.detail-box{
+	width:100%;
+	height: 70vh;
+	float: left;
+}
+.detail-box img{
+	border: 3px solid #eee;
+	width: 100%;
+	height: 100%;
+}
+
+/*footer*/
+.footer{
+	font-size: 12px;
+	background-color: #c70039;
+	height: 20vh;
+	color: #fff;
+}
+footer h5{
+	font-size: 12px;
+	font-weight: bold;
+}
+
+/*tombol navigasi*/
+.navigasi{
+	width: 0px;
+	height: 0px;
+	text-align: center;
+}
+.navigasi table{
+	width: 100%;
+}
+.navigasi td{
+	text-align: center;
+}
+.navigasi td img{
+	width: 27px;
+}
+.navigasi img{
+	width: 0px;
+}
+
+
+
+
+
+
+
+
+/*Mobile Developer*/
+/*web versi mobile*/
+@media screen and (max-width: 768px){
+	
+/*header*/
+	.kepala{
+		width: 100%;
+		height:auto;
+		padding-bottom: 2px;
+		position: fixed-top;
+	}
+	.cari{
+		width: 100%;
+
+	}
+	.cari .tombol{
+		width: 50%;
+		margin: auto;
+		float: right;
+	}
+	.tombol{
+		width: 20px;
+		float: right;
+	}
+	nav{
+		width: 100%;
+		font-size:12px;
+	}
+/*banner*/
+	.banner{
+		width: 100%;
+	}
+	.banner-1 img{
+		height: 200px;
+	}
+	.banner-2 img{
+		height: 200px;
+	}
+
+/*pilihan*/
+.pilihan{
+	width: 100%;
+}
+/*kategori*/
+	.kategori{
+		width: 100%;
+		height: 100px;
+	}
+	.kategori-box{
+		width: 20%;
+		margin-right: 0;
+		margin-left: 0;
+		padding: 2px;
+		height: 105px;
+		border-radius: 0px;
+		box-shadow: none;
+	}
+	.kategori-box p{
+		font-size: 10px;
+	}
+	.kategori-box b{
+		font-size: 10px;
+	}
+	.kategori-box img{
+		width: 100%;
+		height: 63px;
+		border-radius: 0;
+	}
+/*produk*/
+	.produk-box{
+		width: 47%;
+		height: 300px;
+	}
+	.produk-box img{
+		height: 170px;
+	}
+	.produk-box h6{
+		font-size: 12px;
+	}
+	.produk-box h5{
+		font-size: 15px;
+	}
+	.head-line h5{
+		font-size: 12px;
+		margin: 5px;
+	}
+/*alert*/
+	.notif{
+		height: 0px;
+	}
+
+
+/*footer*/
+	.footer{
+		width: 100%;
+		padding-bottom: 5px;
+	}
+	footer h5{
+		text-align: left;
+	}
+
+
+/*Navigasi*/
+	.navigasi{
+		width: 100%;
+		background-color: #c70039;
+		height:auto;
+		padding: 5px;
+	}
+	.navigasi table{
+		width: 100%;
+		margin: auto;
+		color: #fff;
+	}
+	.navigasi td{
+		width: 20%;
+	}
+	.navigasi tr{
+		background-color: #c70039;
+	}
+	.navigasi tr td{
+		color: #fff;
+		border-radius: 5px;
+		margin: 5px;
+	}
+	.navigasi img{
+		width: 27px;
+	}
+	.navigasi img:hover{
+		width: 25px;
+	}
+
+	
+}
+

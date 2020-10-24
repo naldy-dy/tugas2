@@ -157,7 +157,7 @@
       <div class="kategori-box">
           <img src="kategori/3.png">
           <div class="text-center pt-2">
-            <p>Fasion Wanita</p>
+            <p>Laptop / komputer</p>
           </div>
         </div>
       </a>
@@ -166,7 +166,7 @@
       <div class="kategori-box">
           <img src="kategori/4.jpg">
           <div class="text-center pt-2">
-            <p>Fasion Wanita</p>
+            <p>Handphone</p>
           </div>
         </div>
       </a>
@@ -174,7 +174,7 @@
       <div class="kategori-box">
           <img src="kategori/5.png">
           <div class="text-center pt-2">
-            <p>Fasion Wanita</p>
+            <p>Pakaian Anak</p>
           </div>
         </div>
       </a>
@@ -182,7 +182,7 @@
       <div class="kategori-box">
           <img src="kategori/6.jpg">
           <div class="text-center pt-2">
-            <p>Fasion Wanita</p>
+            <p>Sepatu Pria</p>
           </div>
         </div>
       </a>
@@ -190,7 +190,7 @@
       <div class="kategori-box">
           <img src="kategori/7.jpg">
           <div class="text-center pt-2">
-            <p>Fasion Wanita</p>
+            <p>Aksesoris</p>
           </div>
         </div>
       </a>
@@ -198,7 +198,7 @@
       <div class="kategori-box">
           <img src="kategori/8.jpg">
           <div class="text-center pt-2">
-            <p>Fasion Wanita</p>
+            <p>Elektronik</p>
           </div>
         </div>
       </a>
@@ -206,7 +206,7 @@
       <div class="kategori-box">
           <img src="kategori/9.png">
           <div class="text-center pt-2">
-            <p>Fasion Wanita</p>
+            <p>Hobby Pria</p>
           </div>
         </div>
       </a>
@@ -214,7 +214,7 @@
       <div class="kategori-box">
           <img src="kategori/10.png">
           <div class="text-center pt-2">
-            <p>Fasion Wanita</p>
+            <p>Tas Wanita</p>
           </div>
         </div>
       </a>
@@ -252,8 +252,8 @@
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/2.jpeg">
          <div class="p-2">
-            <h4>Nama Produk</h4>
-            <h5>Stock: Jumlah Produk Unit</h5>
+            <h4>Kemeja Pria</h4>
+            <h5>Stock: >100 Unit</h5>
             <h5> Ketapang</h5>
             <h6>Rp. 90.000</h6>
          </div>
@@ -264,10 +264,10 @@
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/5.jpg">
          <div class="p-2">
-            <h4>Nama Produk</h4>
-            <h5>Stock: Jumlah Produk Unit</h5>
+            <h4>Oppo Reno 4</h4>
+            <h5>Stock: 6 Unit</h5>
             <h5> Ketapang</h5>
-            <h6>Rp. 90.000</h6>
+            <h6>Rp. 4.999.000</h6>
          </div>
       </div>
      </a> 
@@ -276,10 +276,10 @@
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/4.jpg">
          <div class="p-2">
-            <h4>Nama Produk</h4>
-            <h5>Stock: Jumlah Produk Unit</h5>
+            <h4>Kemeja Pria Panjang</h4>
+            <h5>Stock: 50 Unit</h5>
             <h5> Ketapang</h5>
-            <h6>Rp. 90.000</h6>
+            <h6>Rp. 120.000</h6>
          </div>
       </div>
      </a> 
@@ -288,7 +288,7 @@
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/3.jpg">
          <div class="p-2">
-            <h4>Nama Produk</h4>
+            <h4>Sepatu Wanita</h4>
             <h5>Stock: Jumlah Produk Unit</h5>
             <h5> Ketapang</h5>
             <h6>Rp. 90.000</h6>
@@ -300,7 +300,7 @@
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/1.jpg">
          <div class="p-2">
-            <h4>Nama Produk</h4>
+            <h4>Pakaian Anak</h4>
             <h5>Stock: Jumlah Produk Unit</h5>
             <h5> Ketapang</h5>
             <h6>Rp. 90.000</h6>
@@ -312,7 +312,7 @@
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/2.jpg">
          <div class="p-2">
-            <h4>Nama Produk</h4>
+            <h4>Sepatu wanita</h4>
             <h5>Stock: Jumlah Produk Unit</h5>
             <h5> Ketapang</h5>
             <h6>Rp. 90.000</h6>

@@ -145,7 +145,7 @@
     <div class="col-md-12 my-3">
       <div class="kategori">
          
-         <a href="">
+         <a href="{{url('detail')}}">
       <div class="kategori-box">
           <img src="kategori/1.png">
           <div class="text-center pt-2">
@@ -218,14 +218,14 @@
           </div>
         </div>
       </a>
-      
-
       </div>
+      <a href="{{url('kategori')}}">
       <div class="kategori-box shadow text-center" style="background-color: #c70039">
         <div class="mx-auto my-4 text-white">
          <b> Lihat semua Kategori </b>
         </div>
       </div>
+      </a>
     </div>
   </div>
 </div>
@@ -248,7 +248,7 @@
   <div class="row">
     <div class="col-md-12 my-3">
 
-     <a href="produk.php"> 
+     <a href="{{url('detail')}}"> 
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/2.jpeg">
          <div class="p-2">
@@ -260,7 +260,7 @@
       </div>
      </a> 
 
-     <a href="produk.php"> 
+     <a href="{{url('detail')}}"> 
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/5.jpg">
          <div class="p-2">
@@ -272,7 +272,7 @@
       </div>
      </a> 
 
-     <a href="produk.php"> 
+     <a href="{{url('detail')}}">  
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/4.jpg">
          <div class="p-2">
@@ -284,7 +284,7 @@
       </div>
      </a> 
 
-     <a href="produk.php"> 
+     <a href="{{url('detail')}}">  
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/3.jpg">
          <div class="p-2">
@@ -296,7 +296,7 @@
       </div>
      </a> 
 
-     <a href="produk.php"> 
+     <a href="{{url('detail')}}">  
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/1.jpg">
          <div class="p-2">
@@ -308,7 +308,7 @@
       </div>
      </a> 
 
-     <a href="produk.php"> 
+     <a href="{{url('detail')}}">  
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/2.jpg">
          <div class="p-2">
@@ -320,7 +320,7 @@
       </div>
      </a> 
 
-     <a href="produk.php"> 
+     <a href="{{url('detail')}}">  
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/6.jpg">
          <div class="p-2">
@@ -332,7 +332,7 @@
       </div>
      </a> 
 
-     <a href="produk.php"> 
+     <<a href="{{url('detail')}}">  
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/7.jpg">
          <div class="p-2">
@@ -344,7 +344,7 @@
       </div>
      </a> 
 
-     <a href="produk.php"> 
+     <a href="{{url('detail')}}">  
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/9.jpg">
          <div class="p-2">
@@ -356,7 +356,7 @@
       </div>
      </a> 
 
-     <a href="produk.php"> 
+     <a href="{{url('detail')}}"> 
       <div class="produk-box shadow mb-3 ml-2">
         <img src="produk/10.jpg">
          <div class="p-2">

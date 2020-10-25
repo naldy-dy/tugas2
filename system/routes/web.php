@@ -28,3 +28,11 @@ Route::get('/signup', function () {
 Route::get('/index', function () {
     return view('index');
 });
+
+Route::get('/detail', function () {
+    return view('detail');
+});
+
+Route::get('/category', function () {
+    return view('category');
+});

@@ -157,6 +157,11 @@ a:hover{
 	color: #000;
 	font-size: 11px;
 }
+.detail-img img{
+	border: 3px solid #eee;
+	width: 200px;
+	height: 190px;
+}
 
 /*produk*/
 .produk-box{
